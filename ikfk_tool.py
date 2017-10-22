@@ -4,7 +4,8 @@ hybrid_face_control.py
 
 Description:
 
-	Allows the hybrid interaction between a blendshape and a joint for extra, fine detail control.
+	A fast and easy way to create an IK/FK arm or leg with auto switching.
+	All you need to due is plug in the objects and run the code.
 
 How to Run:
 
