@@ -1119,28 +1119,3 @@ def anim_icon_gen(*args):
 		print 'key the given attrs on the given obj'
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
